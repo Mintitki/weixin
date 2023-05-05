@@ -14,7 +14,7 @@
 
 今天是我们相识的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
+{{birthday.DATA}} 
 
 {{note_en.DATA}} 
 {{note_ch.DATA}}
